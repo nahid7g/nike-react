@@ -1,0 +1,26 @@
+.banner-title {
+  font-family: "Bebas Neue", cursive;
+  font-size: 80px;
+  line-height: 80px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.section-title {
+  font-family: "Bebas Neue", cursive;
+  font-size: 48px;
+  line-height: 48px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.casual-img-bg {
+  background-color: #f1f1f1;
+}
+.card-price {
+  color: #fa804c;
+  font-size: 30px;
+  line-height: 30px;
+}
+.benefit-icons img {
+  width: 78px;
+  height: 82px;
+}
